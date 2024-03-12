@@ -1,0 +1,1 @@
+# EFI-SAMSUNG-E30
