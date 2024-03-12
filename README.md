@@ -1,6 +1,6 @@
 # EFI para Hackintosh do Samsung Book E30, mas serve para todos os modelos de Notebook Samsung Book com Processador Intel de 10 Geraçao.
 
-<p><a href="https://pay.hotmart.com/A91621562R?checkoutMode=10">COMPRAR EFI</a></p>
+<h1><a href="https://pay.hotmart.com/A91621562R?checkoutMode=10">COMPRAR EFI</a></h1>
 
 <hr>
 
