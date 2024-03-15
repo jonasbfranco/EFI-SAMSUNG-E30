@@ -15,16 +15,12 @@
 - Samsung Book X55
 <hr>
 
+
+
 <p align="center">
    <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Sobre-este-Mac.png?raw=true" alt="">
-  <img src="https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png?raw=true" alt="">
+   <img src="https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png?raw=true" alt="">
 </p>
-
-
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Sobre-este-Mac.png?raw=true)
-![Print of Desktop](https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png?raw=true)
-
-
 
 
 
@@ -57,12 +53,13 @@
   <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet, ou comprando um dongle Wi-Fi (recomendo o TL-WN725N ou o TL-WN823N, ambos da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/">site deles</a>).</h6>
 
 <h2>Outros prints:</h2>
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-WiFi.png?raw=true)
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Som.png?raw=true)
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Bluetooth.png?raw=true)
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Spotify-Audio.png?raw=true)
-![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Hackintool-USB.png?raw=true)
-
+<p align="center">
+   <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-WiFi.png?raw=true" alt="">
+   <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Som.png?raw=true" alt="">
+   <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Bluetooth.png?raw=true" alt="">
+   <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Spotify-Audio.png?raw=true" alt="">
+   <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Hackintool-USB.png?raw=true" alt="">
+</p>
 
 <h3>Agradecimentos:</h3>
 <p>Para <a href="https://github.com/acidanthera">Acidanthera</a> pelo OpenCore em si, pelas ferramentas e pelas kexts;</p>
