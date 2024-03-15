@@ -15,9 +15,10 @@
 - Samsung Book X55
 <hr>
 
+<center>
 ![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Sobre-este-Mac.png?raw=true)
 ![Print of Desktop](https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png)
-
+</center>
 
 
 <hr>
@@ -49,16 +50,12 @@
   <h6>Se quiser usar a internet, há três opções: ou usando pelo cabo Ethernet, ou comprando um dongle Wi-Fi (recomendo o TL-WN725N ou o TL-WN823N, ambos da TP-LINK e em seguida baixar o driver correspondente no <a href="https://www.tp-link.com/br/support/download/">site deles</a>).</h6>
 
 <h2>Outros prints:</h2>
-<img src="https://i.imgur.com/4Qdtl6B.png" height="400">
-<img src="https://i.imgur.com/agcdYxE.png" height="400">
-<img src="https://i.imgur.com/WjPzggp.png" height="400">
-<img src="https://i.imgur.com/lrzJQGD.png" height="400">
-<img src="https://i.imgur.com/d5IU0lN.png" height="400">
+![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-WiFi.png?raw=true)
+![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Som.png?raw=true)
+![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Bluetooth.png?raw=true)
+![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Spotify-Audio.png?raw=true)
+![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Hackintool-USB.png?raw=true)
 
-<img src="https://i.imgur.com/dC3DUw5.png" height="400">
-<img src="https://i.imgur.com/YotKezR.png" height="400">
-<img src="https://i.imgur.com/XLxNOvZ.png" height="400">
-<img src="https://i.imgur.com/KXFKgyJ.png" height="400">
 
 <h3>Agradecimentos:</h3>
 <p>Para <a href="https://github.com/acidanthera">Acidanthera</a> pelo OpenCore em si, pelas ferramentas e pelas kexts;</p>
