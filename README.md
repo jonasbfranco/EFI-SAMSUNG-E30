@@ -15,15 +15,15 @@
 - Samsung Book X55
 <hr>
 
-<center>
+<p align="center">
    <img src="https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Sobre-este-Mac.png?raw=true" alt="">
   <img src="https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png?raw=true" alt="">
-</center>
+</p>
 
-<p align="center">
+
 ![](https://github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Sobre-este-Mac.png?raw=true)
 ![Print of Desktop](https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png?raw=true)
-</p>
+
 
 
 
