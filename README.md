@@ -16,7 +16,8 @@
 <hr>
 
 
-![Print of Desktop](https://raw.github.com/jonasbfranco/EFI-SAMSUNG-E30/blob/main/Hackintosh_E30/Tela-Sobre-este-Mac.png)
+![Print of Desktop](https://raw.github.com/jonasbfranco/EFI-SAMSUNG-E30/master/Tela-Sobre-este-Mac.png)
+![Print of Desktop](https://raw.github.com/jonasbfranco/xubuntu_i3_dotfiles/master/desktop.png)
 
 <img src="https://i.imgur.com/iiuBNML.png" height="290"> <img src="https://i.imgur.com/kk3rgpQ.png" height="290">
 <img src="https://i.imgur.com/QZrrss8.png" height="280">
