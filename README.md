@@ -16,7 +16,7 @@
 <hr>
 
 
-![Print of Desktop]([https://raw.github.com/jonasbfranco/EFI-SAMSUNG-E30/master/Tela-Sobre-este-Mac.png](https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png))
+![Print of Desktop](https://raw.githubusercontent.com/jonasbfranco/EFI-SAMSUNG-E30/ce72dfc4f1048d01b44063ccc9ca3f4b336bfc3c/Hackintosh_E30/Tela-Sobre-este-Mac.png)
 
 
 <img src="https://i.imgur.com/iiuBNML.png" height="290"> <img src="https://i.imgur.com/kk3rgpQ.png" height="290">
